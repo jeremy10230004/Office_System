@@ -1,0 +1,5 @@
+firebase_admin==4.5.1
+openpyxl==3.0.5
+Pillow==9.2.0
+pyperclip==1.8.0
+PyQt5==5.15.7
